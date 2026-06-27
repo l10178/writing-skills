@@ -1,0 +1,11 @@
+{
+  "name": "writing-agent-skills",
+  "packageManager": "pnpm@11.5.1",
+  "description": "写作 AI 基础设施 — 面向内容工作流的生产级 agents 和 skills",
+  "scripts": {
+    "lint:md": "markdownlint '**/*.md' --ignore node_modules --ignore .git"
+  },
+  "devDependencies": {
+    "markdownlint-cli": "^0.44.0"
+  }
+}

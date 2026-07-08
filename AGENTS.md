@@ -13,7 +13,7 @@
 
 | Skill | 功能 |
 |-------|------|
-| _(待添加)_ | |
+| [wang-yangming-soul](skills/wang-yangming-soul/SKILL.md) | 王阳明心学蒸馏——为 Agent 注入知行合一的行动哲学 |
 
 ### Agents（`agents/`）
 

@@ -47,6 +47,5 @@ metadata:
 ## 新增 Skill 流程
 
 1. 使用 skill-creator 创建
-2. 自检通过：`./skills/<name>/demo.sh`
-3. 更新 README 中的 Skills 列表，按名称排序，不改列表格式
-4. 提交 PR
+2. 更新 README 中的 Skills 列表，按名称排序，不改列表格式
+3. 提交 PR

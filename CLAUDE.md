@@ -68,4 +68,4 @@ Skills 覆盖写作全流程：
 
 ## 项目根目录
 
-`/Users/liuquansheng/workspace/l10178/writing-skills/`
+本仓库的根目录，由具体克隆路径决定。

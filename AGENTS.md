@@ -4,20 +4,6 @@
 
 1. **可验证输出** — 产出内容必须是可审查的（文本、diff、建议）
 
-## 目录
-
-### Skills（`skills/`）
-
-| Skill | 功能 |
-|-------|------|
-| [wang-yangming-soul](skills/wang-yangming-soul/SKILL.md) | 王阳明心学蒸馏——为 Agent 注入知行合一的行动哲学 |
-
-### Agents（`agents/`）
-
-| Agent | 功能 |
-|-------|------|
-| _(待添加)_ | |
-
 ## 新建
 
 使用 skill-creator 创建：

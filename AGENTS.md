@@ -2,10 +2,7 @@
 
 ## 原则
 
-1. **单一职责** — 一个 agent 只做一件事
-2. **可验证输出** — 产出内容必须是可审查的（文本、diff、建议）
-3. **快速失败** — 无法完成时明确拒绝，不空转
-4. **自文档化** — `AGENT.md` / `SKILL.md` 即代码、即规范、即帮助
+1. **可验证输出** — 产出内容必须是可审查的（文本、diff、建议）
 
 ## 目录
 
@@ -29,11 +26,8 @@
 npx skills add anthropics/skills --skill skill-creator
 ```
 
-然后在对话中描述需求，skill-creator 引导完成。
-
 ## 规则
 
-- 不添加不会用到的 agent
 - 功能重复时扩展已有 skill，不新建
 - Markdown 格式遵循 [docs/guidelines/markdown-spec.md](docs/guidelines/markdown-spec.md)
 - Skill 编写遵循 [docs/guidelines/skill-spec.md](docs/guidelines/skill-spec.md)

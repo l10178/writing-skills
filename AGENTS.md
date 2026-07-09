@@ -33,9 +33,8 @@ npx skills add anthropics/skills --skill skill-creator
 
 ## 规则
 
-- 不添加本周不会用的 agent
+- 不添加不会用到的 agent
 - 功能重复时扩展已有 skill，不新建
-- 每个 skill/agent 必须包含可运行的自检
 - Markdown 格式遵循 [docs/guidelines/markdown-spec.md](docs/guidelines/markdown-spec.md)
 - Skill 编写遵循 [docs/guidelines/skill-spec.md](docs/guidelines/skill-spec.md)
 - Git 操作遵循 [docs/guidelines/git-workflow.md](docs/guidelines/git-workflow.md)

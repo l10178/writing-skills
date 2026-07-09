@@ -5,7 +5,6 @@ Agent 在本仓库中的 git 操作规范。
 ## 分支
 
 - `main`：稳定分支，始终保持可发布状态
-- 禁止直接提交到 `main`，所有开发在独立分支进行，通过 MR 合入
 - 命名：
   - `feature/<名称>` — 新功能
   - `fix/<名称>` — 修复
@@ -29,16 +28,8 @@ Agent 在本仓库中的 git 操作规范。
 
 ### 规则
 
-- 提交信息用英文，一行概括
-- 一个功能只包含一次 commit，提交 MR 前通过 rebase 将多次 commit 合并为一个
-- 提交信息只描述做了什么，不加 `Co-authored-by` 等元信息
-
-### 提交流程
-
-1. 确认变更范围：`git status`、`git diff`
-2. 检查是否有不该提交的文件（`.env`、`node_modules` 等）
-3. 如有多个 commit，通过 interactive rebase 合并
-4. 提交信息遵循上述格式
+- 提交信息用英文，一行概括，只描述做了什么
+- 一个功能一次 commit，提交 MR 前 rebase 为单 commit
 
 ## 合并
 

@@ -2,7 +2,7 @@
 
 [![skills.sh](https://skills.sh/b/l10178/writing-skills)](https://skills.sh/l10178/writing-skills)
 
-面向写作场景的开源 AI skills 集合，覆盖草拟、编辑、翻译、审校、发布全流程。
+面向写作场景的开源 AI skills 集合。
 
 ## 安装
 
@@ -22,16 +22,6 @@ npx skills add l10178/writing-skills --skill <skill-name> -g -y
 
 支持 **Claude Code**、**Codex**、**Cursor** 等主流 AI 编码助手。
 
-## 使用
-
-安装后在对话中直接描述需求，AI 自动调用对应 skill。
-
-```console
-帮我润色这段文字
-把这篇文档翻译成英文
-检查这篇文章的风格一致性
-```
-
 ## Skills 列表
 
 | Skill | 功能 |
@@ -41,20 +31,6 @@ npx skills add l10178/writing-skills --skill <skill-name> -g -y
 ## 贡献
 
 [CONTRIBUTING.md](CONTRIBUTING.md)
-
-### 新建 Skill
-
-使用 skill-creator 创建，在对话中直接描述即可：
-
-```console
-用 skill-creator 帮我创建一个新的写作 skill，功能是……
-```
-
-skill-creator 会引导你完成命名、描述、结构和自检。安装方式：
-
-```bash
-npx skills add anthropics/skills --skill skill-creator
-```
 
 ## 相关资源
 

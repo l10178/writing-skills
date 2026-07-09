@@ -3,7 +3,6 @@
 本项目所有 skill 须遵守以下规范。
 
 - **必须使用 skill-creator 创建**，不允许手动创建
-- 安装：`npx skills add anthropics/skills --skill skill-creator`
 
 ## 目录
 

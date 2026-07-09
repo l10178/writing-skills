@@ -26,7 +26,7 @@ npx skills add l10178/writing-skills --skill <skill-name> -g -y
 
 | Skill | 功能 |
 |-------|------|
-| _(即将推出)_ | |
+| wang-yangming-soul | 王阳明心学灵魂注入——知行合一、事上磨练、致良知、心即理，以良知为终极准则审视每一次行动 |
 
 ## 贡献
 

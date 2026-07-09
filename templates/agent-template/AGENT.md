@@ -19,5 +19,4 @@
 
 ```bash
 cat sample.md | /<command>
-./agents/<name>/demo.sh
 ```

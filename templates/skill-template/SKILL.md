@@ -22,11 +22,3 @@ metadata:
 
 - 示例 1
 - 示例 2
-
-## 自检
-
-```bash
-./skills/<name>/demo.sh
-```
-
-通过静默，失败报错。

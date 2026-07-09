@@ -43,7 +43,6 @@
 - Skills 在 `skills/<name>/SKILL.md`，Agents 在 `agents/<name>/AGENT.md`
 - 入口文件即唯一真相来源
 - 不留死代码，不用就删
-- 自检放在被测对象旁：`skills/foo/demo.sh`
 - 优先标准库、零依赖
 - Shell 命令用 `#!/usr/bin/env bash`
 - Markdown 格式遵循 [docs/guidelines/markdown-spec.md](docs/guidelines/markdown-spec.md)

@@ -26,7 +26,6 @@ Issue 标题用英文前缀：`skill:` / `fix:` / `docs:`。
 
 - 使用 skill-creator 创建
 - SKILL.md 元数据仅含 `tags`、`author`、`version`
-- 包含 `demo.sh`，覆盖主路径和至少一种错误路径
 - 新增后更新 README Skills 列表，按名称排序
 - 不与已有 skill 功能重复
 

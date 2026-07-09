@@ -7,7 +7,6 @@
 ```text
 skills/<name>/
 ├── SKILL.md        # 入口、规范
-├── demo.sh         # 自检
 └── ...
 ```
 

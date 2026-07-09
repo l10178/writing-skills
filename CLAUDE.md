@@ -68,4 +68,4 @@ Skills 覆盖写作全流程：
 
 ## 项目根目录
 
-`/Users/liuquansheng/workspace/l10178/writing-agent-skills/`
+`/Users/liuquansheng/workspace/l10178/writing-skills/`
